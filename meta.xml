@@ -1,10 +1,10 @@
 <meta>
-<info author="Mcnciolas208" name="Trabajo Recolector Basura" version="2.0" type="script" />
+<info author="Nicolas ECM" name="Trabajo Recolector Basura" version="2.0" type="script" />
 	<script src="client.lua" type="client"/>
 	<script src="TextosMark.lua" type="client"/>
 	<script src="server.lua" type="server"/>
 	<script src="CargarDatosCamion.lua" type="client"/>
   	<file src="camion.mp3" />
 	<config src="config.xml" type="client"/>
-	<include resource="trabajos" /> 
+	<include resource="Trabajos-Base" /> 
 </meta>
